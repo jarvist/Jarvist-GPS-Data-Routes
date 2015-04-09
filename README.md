@@ -8,11 +8,13 @@ my Garmin HCx and Hs.
 
 ## Workflow
 
-I've found the best workflow for GPS Routes is:-
+I've found the best workflow for GPS Cycle Routes is:-
 * Plan on Google maps, start with some bicycling directions + then tweak by dragging the rhumb line
+  * Nb: Google maps doesn't show the UK Sustrans routes, whereas Open Cycle map
+    does!
 * Check with the Pegman (Google streetview), in the split screen layout, that none of your quiet country roads are actually 2-lane monsters
 * Extract a GPX via http://www.gpsvisualizer.com/convert_input , copy and paste the shared link from GMaps
-* Upload the GPX file to your GPS / to http://bikehike.co.uk ; to look at the OS map for bits of it + get an elevation profile
+* Upload the GPX file to your GPS / to http://bikehike.co.uk ; to look at the OS map for bits of it + get an elevation profile. You can tweak it here + cross reference Google / OSM (for the Sustrans routes).
 * You can tweak it further here, and export it as a GPX route (+ name it sensibly)
 
 ## Garmin eTrex (HCx)
