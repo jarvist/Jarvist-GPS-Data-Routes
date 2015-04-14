@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <time>2015-04-11T16:21:59.047Z</time>
+    <bounds minlat="51.301740000" minlon="-2.380410000" maxlat="51.439680000" maxlon="-2.266130000"/>
+  </metadata>
+  <rte>
+    <name>BU-WellowNorton-50km</name>
+    <number>1</number>
+    <rtept lat="51.375310000" lon="-2.377320000">
+      <ele>33.820000</ele>
+      <time>2015-04-11T17:18:08Z</time>
+      <name>pt0</name>
+    </rtept>
+    <rtept lat="51.376560000" lon="-2.377920000">
+      <ele>31.320000</ele>
+      <time>2015-04-11T17:18:45Z</time>
+      <name>pt4</name>
+    </rtept>
+    <rtept lat="51.374650000" lon="-2.380410000">
+      <ele>48.030000</ele>
+      <time>2015-04-11T17:19:54Z</time>
+      <name>pt9</name>
+    </rtept>
+    <rtept lat="51.369450000" lon="-2.364200000">
+      <ele>89.790000</ele>
+      <time>2015-04-11T17:24:59Z</time>
+      <name>pt15</name>
+    </rtept>
+    <rtept lat="51.369320000" lon="-2.358910000">
+      <ele>79.240000</ele>
+      <time>2015-04-11T17:26:28Z</time>
+      <name>pt17</name>
+    </rtept>
+    <rtept lat="51.368300000" lon="-2.355280000">
+      <ele>85.340000</ele>
+      <time>2015-04-11T17:27:34Z</time>
+      <name>pt20</name>
+    </rtept>
+    <rtept lat="51.357830000" lon="-2.342860000">
+      <ele>126.480000</ele>
+      <time>2015-04-11T17:33:22Z</time>
+      <name>pt22</name>
+    </rtept>
+    <rtept lat="51.353110000" lon="-2.340560000">
+      <ele>57.470000</ele>
+      <time>2015-04-11T17:35:35Z</time>
+      <name>pt28</name>
+    </rtept>
+    <rtept lat="51.350990000" lon="-2.341220000">
+      <ele>53.160000</ele>
+      <time>2015-04-11T17:36:33Z</time>
+      <name>pt31</name>
+    </rtept>
+    <rtept lat="51.347630000" lon="-2.344390000">
+      <ele>57.360000</ele>
+      <time>2015-04-11T17:38:18Z</time>
+      <name>pt36</name>
+    </rtept>
+    <rtept lat="51.345570000" lon="-2.345050000">
+      <ele>52.240000</ele>
+      <time>2015-04-11T17:39:14Z</time>
+      <name>pt38</name>
+    </rtept>
+    <rtept lat="51.342020000" lon="-2.344100000">
+      <ele>53.160000</ele>
+      <time>2015-04-11T17:40:51Z</time>
+      <name>pt43</name>
+    </rtept>
+    <rtept lat="51.340280000" lon="-2.345120000">
+      <ele>71.040000</ele>
+      <time>2015-04-11T17:41:45Z</time>
+      <name>pt49</name>
+    </rtept>
+    <rtept lat="51.336210000" lon="-2.355180000">
+      <ele>101.780000</ele>
+      <time>2015-04-11T17:45:08Z</time>
+      <name>pt59</name>
+    </rtept>
+    <rtept lat="51.333920000" lon="-2.357920000">
+      <ele>115.780000</ele>
+      <time>2015-04-11T17:46:26Z</time>
+      <name>pt65</name>
+    </rtept>
+    <rtept lat="51.333920000" lon="-2.361880000">
+      <ele>125.250000</ele>
+      <time>2015-04-11T17:47:33Z</time>
+      <name>pt71</name>
+    </rtept>
+    <rtept lat="51.330880000" lon="-2.363040000">
+      <ele>147.400000</ele>
+      <time>2015-04-11T17:48:59Z</time>
+      <name>pt77</name>
+    </rtept>
+    <rtept lat="51.330490000" lon="-2.368690000">
+      <ele>141.060000</ele>
+      <time>2015-04-11T17:50:37Z</time>
+      <name>pt82</name>
+    </rtept>
+    <rtept lat="51.324920000" lon="-2.373940000">
+      <ele>88.000000</ele>
+      <time>2015-04-11T17:53:38Z</time>
+      <name>pt97</name>
+    </rtept>
+    <rtept lat="51.319790000" lon="-2.371340000">
+      <ele>57.030000</ele>
+      <time>2015-04-11T17:56:10Z</time>
+      <name>pt112</name>
+    </rtept>
+    <rtept lat="51.320060000" lon="-2.368340000">
+      <ele>65.190000</ele>
+      <time>2015-04-11T17:57:01Z</time>
+      <name>pt116</name>
+    </rtept>
+    <rtept lat="51.318840000" lon="-2.361130000">
+      <ele>72.780000</ele>
+      <time>2015-04-11T17:59:07Z</time>
+      <name>pt124</name>
+    </rtept>
+    <rtept lat="51.315380000" lon="-2.353360000">
+      <ele>78.710000</ele>
+      <time>2015-04-11T18:01:47Z</time>
+      <name>pt133</name>
+    </rtept>
+    <rtept lat="51.315120000" lon="-2.351150000">
+      <ele>67.080000</ele>
+      <time>2015-04-11T18:02:25Z</time>
+      <name>pt136</name>
+    </rtept>
+    <rtept lat="51.315810000" lon="-2.349810000">
+      <ele>70.020000</ele>
+      <time>2015-04-11T18:02:56Z</time>
+      <name>pt142</name>
+    </rtept>
+    <rtept lat="51.313890000" lon="-2.345010000">
+      <ele>71.660000</ele>
+      <time>2015-04-11T18:04:37Z</time>
+      <name>pt152</name>
+    </rtept>
+    <rtept lat="51.311660000" lon="-2.344440000">
+      <ele>73.690000</ele>
+      <time>2015-04-11T18:05:39Z</time>
+      <name>pt159</name>
+    </rtept>
+    <rtept lat="51.309000000" lon="-2.337560000">
+      <ele>72.050000</ele>
+      <time>2015-04-11T18:07:56Z</time>
+      <name>pt166</name>
+    </rtept>
+    <rtept lat="51.305980000" lon="-2.335680000">
+      <ele>75.300000</ele>
+      <time>2015-04-11T18:09:23Z</time>
+      <name>pt170</name>
+    </rtept>
+    <rtept lat="51.302650000" lon="-2.329150000">
+      <ele>87.090000</ele>
+      <time>2015-04-11T18:11:50Z</time>
+      <name>pt180</name>
+    </rtept>
+    <rtept lat="51.303280000" lon="-2.327130000">
+      <ele>103.940000</ele>
+      <time>2015-04-11T18:12:28Z</time>
+      <name>pt183</name>
+    </rtept>
+    <rtept lat="51.301740000" lon="-2.325270000">
+      <ele>110.790000</ele>
+      <time>2015-04-11T18:13:21Z</time>
+      <name>pt186</name>
+    </rtept>
+    <rtept lat="51.309390000" lon="-2.306060000">
+      <ele>102.370000</ele>
+      <time>2015-04-11T18:19:47Z</time>
+      <name>pt206</name>
+    </rtept>
+    <rtept lat="51.310770000" lon="-2.305860000">
+      <ele>105.900000</ele>
+      <time>2015-04-11T18:20:24Z</time>
+      <name>pt210</name>
+    </rtept>
+    <rtept lat="51.312130000" lon="-2.302840000">
+      <ele>92.580000</ele>
+      <time>2015-04-11T18:21:26Z</time>
+      <name>pt214</name>
+    </rtept>
+    <rtept lat="51.315030000" lon="-2.299900000">
+      <ele>99.660000</ele>
+      <time>2015-04-11T18:23:00Z</time>
+      <name>pt221</name>
+    </rtept>
+    <rtept lat="51.316950000" lon="-2.284030000">
+      <ele>39.910000</ele>
+      <time>2015-04-11T18:27:34Z</time>
+      <name>pt235</name>
+    </rtept>
+    <rtept lat="51.320590000" lon="-2.282700000">
+      <ele>64.880000</ele>
+      <time>2015-04-11T18:29:16Z</time>
+      <name>pt241</name>
+    </rtept>
+    <rtept lat="51.322870000" lon="-2.276490000">
+      <ele>70.000000</ele>
+      <time>2015-04-11T18:31:18Z</time>
+      <name>pt250</name>
+    </rtept>
+    <rtept lat="51.329490000" lon="-2.271370000">
+      <ele>73.200000</ele>
+      <time>2015-04-11T18:34:38Z</time>
+      <name>pt262</name>
+    </rtept>
+    <rtept lat="51.330350000" lon="-2.268330000">
+      <ele>67.830000</ele>
+      <time>2015-04-11T18:35:34Z</time>
+      <name>pt267</name>
+    </rtept>
+    <rtept lat="51.331020000" lon="-2.272220000">
+      <ele>75.890000</ele>
+      <time>2015-04-11T18:36:43Z</time>
+      <name>pt271</name>
+    </rtept>
+    <rtept lat="51.331690000" lon="-2.271960000">
+      <ele>76.440000</ele>
+      <time>2015-04-11T18:37:02Z</time>
+      <name>pt273</name>
+    </rtept>
+    <rtept lat="51.335660000" lon="-2.276520000">
+      <ele>94.930000</ele>
+      <time>2015-04-11T18:39:14Z</time>
+      <name>pt282</name>
+    </rtept>
+    <rtept lat="51.336830000" lon="-2.276260000">
+      <ele>96.490000</ele>
+      <time>2015-04-11T18:39:47Z</time>
+      <name>pt286</name>
+    </rtept>
+    <rtept lat="51.338010000" lon="-2.277650000">
+      <ele>83.250000</ele>
+      <time>2015-04-11T18:40:33Z</time>
+      <name>pt291</name>
+    </rtept>
+    <rtept lat="51.337140000" lon="-2.283560000">
+      <ele>44.820000</ele>
+      <time>2015-04-11T18:42:16Z</time>
+      <name>pt298</name>
+    </rtept>
+    <rtept lat="51.338010000" lon="-2.284340000">
+      <ele>34.140000</ele>
+      <time>2015-04-11T18:42:44Z</time>
+      <name>pt303</name>
+    </rtept>
+    <rtept lat="51.338480000" lon="-2.281840000">
+      <ele>38.450000</ele>
+      <time>2015-04-11T18:43:43Z</time>
+      <name>pt311</name>
+    </rtept>
+    <rtept lat="51.339600000" lon="-2.282690000">
+      <ele>39.050000</ele>
+      <time>2015-04-11T18:44:18Z</time>
+      <name>pt317</name>
+    </rtept>
+    <rtept lat="51.343700000" lon="-2.266130000">
+      <ele>38.740000</ele>
+      <time>2015-04-11T18:49:17Z</time>
+      <name>pt328</name>
+    </rtept>
+    <rtept lat="51.343330000" lon="-2.275930000">
+      <ele>64.360000</ele>
+      <time>2015-04-11T18:52:01Z</time>
+      <name>pt334</name>
+    </rtept>
+    <rtept lat="51.344910000" lon="-2.277910000">
+      <ele>67.590000</ele>
+      <time>2015-04-11T18:52:55Z</time>
+      <name>pt337</name>
+    </rtept>
+    <rtept lat="51.345290000" lon="-2.282080000">
+      <ele>89.780000</ele>
+      <time>2015-04-11T18:54:09Z</time>
+      <name>pt345</name>
+    </rtept>
+    <rtept lat="51.348600000" lon="-2.287040000">
+      <ele>115.770000</ele>
+      <time>2015-04-11T18:56:12Z</time>
+      <name>pt353</name>
+    </rtept>
+    <rtept lat="51.350380000" lon="-2.287380000">
+      <ele>119.770000</ele>
+      <time>2015-04-11T18:57:00Z</time>
+      <name>pt355</name>
+    </rtept>
+    <rtept lat="51.355090000" lon="-2.285170000">
+      <ele>126.490000</ele>
+      <time>2015-04-11T18:59:13Z</time>
+      <name>pt362</name>
+    </rtept>
+    <rtept lat="51.357890000" lon="-2.287620000">
+      <ele>129.610000</ele>
+      <time>2015-04-11T19:00:39Z</time>
+      <name>pt366</name>
+    </rtept>
+    <rtept lat="51.358930000" lon="-2.286790000">
+      <ele>129.620000</ele>
+      <time>2015-04-11T19:01:11Z</time>
+      <name>pt370</name>
+    </rtept>
+    <rtept lat="51.362860000" lon="-2.292840000">
+      <ele>137.620000</ele>
+      <time>2015-04-11T19:03:40Z</time>
+      <name>pt379</name>
+    </rtept>
+    <rtept lat="51.364150000" lon="-2.293350000">
+      <ele>145.960000</ele>
+      <time>2015-04-11T19:04:16Z</time>
+      <name>pt382</name>
+    </rtept>
+    <rtept lat="51.364110000" lon="-2.295530000">
+      <ele>150.020000</ele>
+      <time>2015-04-11T19:04:53Z</time>
+      <name>pt386</name>
+    </rtept>
+    <rtept lat="51.371070000" lon="-2.291340000">
+      <ele>140.830000</ele>
+      <time>2015-04-11T19:08:16Z</time>
+      <name>pt404</name>
+    </rtept>
+    <rtept lat="51.375080000" lon="-2.296760000">
+      <ele>58.680000</ele>
+      <time>2015-04-11T19:10:40Z</time>
+      <name>pt413</name>
+    </rtept>
+    <rtept lat="51.377010000" lon="-2.295960000">
+      <ele>61.890000</ele>
+      <time>2015-04-11T19:11:34Z</time>
+      <name>pt419</name>
+    </rtept>
+    <rtept lat="51.382920000" lon="-2.300370000">
+      <ele>79.860000</ele>
+      <time>2015-04-11T19:14:31Z</time>
+      <name>pt430</name>
+    </rtept>
+    <rtept lat="51.386700000" lon="-2.306530000">
+      <ele>59.390000</ele>
+      <time>2015-04-11T19:16:56Z</time>
+      <name>pt436</name>
+    </rtept>
+    <rtept lat="51.395510000" lon="-2.305550000">
+      <ele>58.330000</ele>
+      <time>2015-04-11T19:20:54Z</time>
+      <name>pt447</name>
+    </rtept>
+    <rtept lat="51.397850000" lon="-2.307630000">
+      <ele>41.600000</ele>
+      <time>2015-04-11T19:22:06Z</time>
+      <name>pt450</name>
+    </rtept>
+    <rtept lat="51.401230000" lon="-2.307800000">
+      <ele>23.010000</ele>
+      <time>2015-04-11T19:23:37Z</time>
+      <name>pt455</name>
+    </rtept>
+    <rtept lat="51.403390000" lon="-2.311300000">
+      <ele>30.700000</ele>
+      <time>2015-04-11T19:25:02Z</time>
+      <name>pt461</name>
+    </rtept>
+    <rtept lat="51.407920000" lon="-2.306370000">
+      <ele>79.510000</ele>
+      <time>2015-04-11T19:27:29Z</time>
+      <name>pt467</name>
+    </rtept>
+    <rtept lat="51.408800000" lon="-2.302890000">
+      <ele>79.460000</ele>
+      <time>2015-04-11T19:28:33Z</time>
+      <name>pt472</name>
+    </rtept>
+    <rtept lat="51.408310000" lon="-2.298010000">
+      <ele>77.310000</ele>
+      <time>2015-04-11T19:30:00Z</time>
+      <name>pt478</name>
+    </rtept>
+    <rtept lat="51.410390000" lon="-2.294090000">
+      <ele>85.820000</ele>
+      <time>2015-04-11T19:31:27Z</time>
+      <name>pt485</name>
+    </rtept>
+    <rtept lat="51.414450000" lon="-2.293370000">
+      <ele>102.150000</ele>
+      <time>2015-04-11T19:33:17Z</time>
+      <name>pt492</name>
+    </rtept>
+    <rtept lat="51.416040000" lon="-2.291360000">
+      <ele>95.280000</ele>
+      <time>2015-04-11T19:34:11Z</time>
+      <name>pt496</name>
+    </rtept>
+    <rtept lat="51.417600000" lon="-2.291000000">
+      <ele>104.130000</ele>
+      <time>2015-04-11T19:34:54Z</time>
+      <name>pt499</name>
+    </rtept>
+    <rtept lat="51.420070000" lon="-2.286390000">
+      <ele>104.460000</ele>
+      <time>2015-04-11T19:36:37Z</time>
+      <name>pt507</name>
+    </rtept>
+    <rtept lat="51.422740000" lon="-2.275650000">
+      <ele>71.760000</ele>
+      <time>2015-04-11T19:39:57Z</time>
+      <name>pt521</name>
+    </rtept>
+    <rtept lat="51.424400000" lon="-2.277690000">
+      <ele>85.210000</ele>
+      <time>2015-04-11T19:40:54Z</time>
+      <name>pt527</name>
+    </rtept>
+    <rtept lat="51.425970000" lon="-2.277280000">
+      <ele>102.950000</ele>
+      <time>2015-04-11T19:41:37Z</time>
+      <name>pt531</name>
+    </rtept>
+    <rtept lat="51.427360000" lon="-2.282270000">
+      <ele>130.050000</ele>
+      <time>2015-04-11T19:43:15Z</time>
+      <name>pt541</name>
+    </rtept>
+    <rtept lat="51.426040000" lon="-2.287910000">
+      <ele>167.230000</ele>
+      <time>2015-04-11T19:44:56Z</time>
+      <name>pt545</name>
+    </rtept>
+    <rtept lat="51.427160000" lon="-2.289270000">
+      <ele>177.650000</ele>
+      <time>2015-04-11T19:45:35Z</time>
+      <name>pt551</name>
+    </rtept>
+    <rtept lat="51.428130000" lon="-2.289000000">
+      <ele>180.760000</ele>
+      <time>2015-04-11T19:46:02Z</time>
+      <name>pt553</name>
+    </rtept>
+    <rtept lat="51.431900000" lon="-2.293620000">
+      <ele>181.870000</ele>
+      <time>2015-04-11T19:48:12Z</time>
+      <name>pt564</name>
+    </rtept>
+    <rtept lat="51.434250000" lon="-2.292780000">
+      <ele>180.510000</ele>
+      <time>2015-04-11T19:49:16Z</time>
+      <name>pt565</name>
+    </rtept>
+    <rtept lat="51.436160000" lon="-2.295420000">
+      <ele>181.320000</ele>
+      <time>2015-04-11T19:50:26Z</time>
+      <name>pt571</name>
+    </rtept>
+    <rtept lat="51.439680000" lon="-2.296620000">
+      <ele>175.380000</ele>
+      <time>2015-04-11T19:52:05Z</time>
+      <name>pt578</name>
+    </rtept>
+    <rtept lat="51.436020000" lon="-2.301530000">
+      <ele>130.380000</ele>
+      <time>2015-04-11T19:54:15Z</time>
+      <name>pt587</name>
+    </rtept>
+    <rtept lat="51.436330000" lon="-2.303760000">
+      <ele>120.560000</ele>
+      <time>2015-04-11T19:54:54Z</time>
+      <name>pt591</name>
+    </rtept>
+    <rtept lat="51.435100000" lon="-2.308010000">
+      <ele>100.650000</ele>
+      <time>2015-04-11T19:56:14Z</time>
+      <name>pt597</name>
+    </rtept>
+    <rtept lat="51.430050000" lon="-2.309680000">
+      <ele>71.100000</ele>
+      <time>2015-04-11T19:58:36Z</time>
+      <name>pt608</name>
+    </rtept>
+    <rtept lat="51.429050000" lon="-2.308790000">
+      <ele>75.880000</ele>
+      <time>2015-04-11T19:59:08Z</time>
+      <name>pt612</name>
+    </rtept>
+    <rtept lat="51.427750000" lon="-2.312940000">
+      <ele>55.090000</ele>
+      <time>2015-04-11T20:00:39Z</time>
+      <name>pt625</name>
+    </rtept>
+    <rtept lat="51.422740000" lon="-2.313220000">
+      <ele>46.100000</ele>
+      <time>2015-04-11T20:02:55Z</time>
+      <name>pt637</name>
+    </rtept>
+    <rtept lat="51.422210000" lon="-2.314190000">
+      <ele>53.630000</ele>
+      <time>2015-04-11T20:03:17Z</time>
+      <name>pt639</name>
+    </rtept>
+    <rtept lat="51.418610000" lon="-2.313940000">
+      <ele>46.580000</ele>
+      <time>2015-04-11T20:04:53Z</time>
+      <name>pt644</name>
+    </rtept>
+    <rtept lat="51.412940000" lon="-2.319200000">
+      <ele>40.800000</ele>
+      <time>2015-04-11T20:07:53Z</time>
+      <name>pt656</name>
+    </rtept>
+    <rtept lat="51.409560000" lon="-2.320880000">
+      <ele>39.780000</ele>
+      <time>2015-04-11T20:09:28Z</time>
+      <name>pt662</name>
+    </rtept>
+    <rtept lat="51.406190000" lon="-2.320230000">
+      <ele>39.880000</ele>
+      <time>2015-04-11T20:11:00Z</time>
+      <name>pt670</name>
+    </rtept>
+    <rtept lat="51.402270000" lon="-2.328280000">
+      <ele>38.890000</ele>
+      <time>2015-04-11T20:13:56Z</time>
+      <name>pt679</name>
+    </rtept>
+    <rtept lat="51.401750000" lon="-2.325800000">
+      <ele>24.520000</ele>
+      <time>2015-04-11T20:14:41Z</time>
+      <name>pt684</name>
+    </rtept>
+    <rtept lat="51.396840000" lon="-2.321980000">
+      <ele>34.830000</ele>
+      <time>2015-04-11T20:17:08Z</time>
+      <name>pt690</name>
+    </rtept>
+    <rtept lat="51.396690000" lon="-2.320830000">
+      <ele>35.940000</ele>
+      <time>2015-04-11T20:17:30Z</time>
+      <name>pt693</name>
+    </rtept>
+    <rtept lat="51.391290000" lon="-2.335390000">
+      <ele>81.400000</ele>
+      <time>2015-04-11T20:22:17Z</time>
+      <name>pt712</name>
+    </rtept>
+    <rtept lat="51.389720000" lon="-2.341830000">
+      <ele>67.970000</ele>
+      <time>2015-04-11T20:24:13Z</time>
+      <name>pt717</name>
+    </rtept>
+    <rtept lat="51.387280000" lon="-2.346880000">
+      <ele>45.840000</ele>
+      <time>2015-04-11T20:26:01Z</time>
+      <name>pt723</name>
+    </rtept>
+    <rtept lat="51.382780000" lon="-2.349040000">
+      <ele>38.960000</ele>
+      <time>2015-04-11T20:28:19Z</time>
+      <name>pt737</name>
+    </rtept>
+    <rtept lat="51.379160000" lon="-2.349050000">
+      <ele>30.870000</ele>
+      <time>2015-04-11T20:29:57Z</time>
+      <name>pt744</name>
+    </rtept>
+    <rtept lat="51.376580000" lon="-2.353150000">
+      <ele>26.640000</ele>
+      <time>2015-04-11T20:31:41Z</time>
+      <name>pt754</name>
+    </rtept>
+    <rtept lat="51.377260000" lon="-2.361480000">
+      <ele>28.720000</ele>
+      <time>2015-04-11T20:34:03Z</time>
+      <name>pt762</name>
+    </rtept>
+    <rtept lat="51.378910000" lon="-2.368460000">
+      <ele>21.600000</ele>
+      <time>2015-04-11T20:36:13Z</time>
+      <name>pt770</name>
+    </rtept>
+    <rtept lat="51.377230000" lon="-2.369790000">
+      <ele>31.660000</ele>
+      <time>2015-04-11T20:37:06Z</time>
+      <name>pt775</name>
+    </rtept>
+    <rtept lat="51.378090000" lon="-2.377230000">
+      <ele>29.850000</ele>
+      <time>2015-04-11T20:39:25Z</time>
+      <name>pt790</name>
+    </rtept>
+    <rtept lat="51.377120000" lon="-2.376370000">
+      <ele>32.880000</ele>
+      <time>2015-04-11T20:39:55Z</time>
+      <name>pt793</name>
+    </rtept>
+    <rtept lat="51.376560000" lon="-2.377920000">
+      <ele>31.320000</ele>
+      <time>2015-04-11T20:40:25Z</time>
+      <name>pt795</name>
+    </rtept>
+    <rtept lat="51.375310000" lon="-2.377320000">
+      <ele>33.820000</ele>
+      <time>2015-04-11T20:41:03Z</time>
+      <name>pt799</name>
+    </rtept>
+  </rte>
+</gpx>
