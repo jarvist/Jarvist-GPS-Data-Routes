@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<gpx version="1.1" creator="Landserf 2.3 - http://www.landserf.org"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"						
+ xmlns="http://www.topografix.com/GPX/1/1"						
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">						
+<metadata>						
+<time>2006-07-07T08:13:00Z</time>						
+<bounds minlat="51.54" minlon="-0.06" maxlat="52.29" maxlon="1.63"/>						
+</metadata>						
+<wpt lat="51.542" lon="-0.0581">	<ele>15</ele>	<name>01Strt</name>	<desc>Pub on the Park, London Fields</desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>		
+<wpt lat="51.5526" lon="-0.0525">	<ele>20</ele>	<name>02 R</name>	<desc>Powerscroft Rd</desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>		
+<wpt lat="51.5608" lon="-0.0491">	<ele>8</ele>	<name>03 R</name>	<desc>Lea Bridge Rd</desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>		
+<wpt lat="51.5818" lon="0.0006">	<ele>30</ele>	<name>04 SO</name>	<desc>Cattlegrids in 1.5km!</desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>		
+<wpt lat="51.6556" lon="0.0389">	<ele>80</ele>	<name>05 SO</name>	<desc>High Beach roundabout</desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>		
+<wpt lat="51.7052" lon="0.1190">	<ele>111</ele>	<name>06 bR</name>	<desc>Epping</desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="51.7168" lon="0.1676">	<ele>79</ele>	<name>07 SO</name>	<desc>North Weald Bassett</desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="51.7444" lon="0.1937">	<ele>76</ele>	<name>08 R</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="51.7409" lon="0.2193">	<ele>57</ele>	<name>09 fL</name>	<desc>Moreton</desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="51.7376" lon="0.2663">	<ele>62</ele>	<name>10 L</name>	<desc>Fyfield</desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="51.7919" lon="0.2931">	<ele>62</ele>	<name>11 R</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="51.7965" lon="0.3115">	<ele>72</ele>	<name>12 L</name>	<desc>Leaden Roding</desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="51.8655" lon="0.3704">	<ele>59</ele>	<name>13 L</name>	<desc>Entering Gt Dunmow</desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="51.8797" lon="0.3623">	<ele>60</ele>	<name>14 R</name>	<desc>Leaving Gt Dunmow</desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="51.9487" lon="0.4376">	<ele>68</ele>	<name>15 L</name>	<desc>Gt Bardfield</desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="51.9686" lon="0.4512">	<ele>63</ele>	<name>16 bR</name>	<desc>Finchingfield - short steep climb</desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="51.9536" lon="0.4885">	<ele>70</ele>	<name>17 SO</name>	<desc>Wethersfield</desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="51.9785" lon="0.5851">	<ele>55</ele>	<name>18 L</name>	<desc>Entering Sible Hedingham</desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="51.9805" lon="0.5901">	<ele>48</ele>	<name>19 L</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="51.9821" lon="0.5890">	<ele>53</ele>	<name>20 R</name>	<desc>Leaving Sible Hedingham</desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="51.9895" lon="0.5988">	<ele>50</ele>	<name>21 fR</name>	<desc>Castle Hedingham</desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="51.9981" lon="0.6466">	<ele>70</ele>	<name>22 L</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="52.0157" lon="0.6901">	<ele>79</ele>	<name>23 L</name>	<desc>Bulmer Tye</desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="52.0382" lon="0.7262">	<ele>30</ele>	<name>24 L</name>	<desc>Entering Sudbury</desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="52.0422" lon="0.7285">	<ele>34</ele>	<name>25 R</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="52.0399" lon="0.7323">	<ele>37</ele>	<name>26 L</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="52.0471" lon="0.7446">	<ele>60</ele>	<name>27 E2</name>	<desc>Leaving Sudbury</desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="52.0605" lon="0.7778">	<ele>57</ele>	<name>28Food</name>	<desc>Great Waldingfield Food stop</desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="52.0682" lon="0.7893">	<ele>41</ele>	<name>29 R</name>	<desc></desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="52.0908" lon="0.8585">	<ele>40</ele>	<name>30 R</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="52.0927" lon="0.8763">	<ele>37</ele>	<name>31 bL</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="52.1026" lon="0.9092">	<ele>34</ele>	<name>32 L</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="52.1046" lon="0.9097">	<ele>37</ele>	<name>33 R</name>	<desc>Bildeston</desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="52.1075" lon="0.9773">	<ele>80</ele>	<name>34 bL</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="52.1276" lon="1.0158">	<ele>72</ele>	<name>35 L</name>	<desc>Barking Tye</desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="52.1507" lon="1.0539">	<ele>19</ele>	<name>36 L</name>	<desc>Needham Market</desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="52.1518" lon="1.0537">	<ele>21</ele>	<name>37 R</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="52.1502" lon="1.0628">	<ele>18</ele>	<name>38 fL</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="52.1463" lon="1.0785">	<ele>17</ele>	<name>39 E1</name>	<desc>Large Roundabout under A14</desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="52.1512" lon="1.0851">	<ele>24</ele>	<name>40 R</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="52.1447" lon="1.1144">	<ele>28</ele>	<name>41 fR</name>	<desc>Coddenham</desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="52.1442" lon="1.1440">	<ele>38</ele>	<name>42 L</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="52.1485" lon="1.1475">	<ele>56</ele>	<name>43 R</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="52.1692" lon="1.1982">	<ele>55</ele>	<name>44 L</name>	<desc>Helmingham</desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="52.1901" lon="1.2077">	<ele>37</ele>	<name>45 R</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="52.1935" lon="1.2299">	<ele>51</ele>	<name>46 bL</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="52.1953" lon="1.2579">	<ele>36</ele>	<name>47 L R</name>	<desc>Cretingham</desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="52.1933" lon="1.3110">	<ele>22</ele>	<name>48 L</name>	<desc>Kettleburgh</desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="52.1968" lon="1.3170">	<ele>30</ele>	<name>49 R</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="52.2137" lon="1.3421">	<ele>27</ele>	<name>50 L</name>	<desc>Entering Framlingham</desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="52.2212" lon="1.3418">	<ele>28</ele>	<name>51 R</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="52.2224" lon="1.3485">	<ele>41</ele>	<name>52 bL</name>	<desc>Leaving Framlingham</desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="52.2357" lon="1.3675">	<ele>53</ele>	<name>53 R</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="52.2287" lon="1.4013">	<ele>43</ele>	<name>54 L</name>	<desc>Cransford</desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="52.2708" lon="1.4501">	<ele>23</ele>	<name>55 R</name>	<desc>Peasenhall</desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="52.2727" lon="1.4547">	<ele>20</ele>	<name>56 L</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="52.2749" lon="1.4571">	<ele>18</ele>	<name>57 bL</name>	<desc>Sibton</desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="52.2792" lon="1.4548">	<ele>18</ele>	<name>58 R</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="52.2916" lon="1.4631">	<ele>46</ele>	<name>59 R</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="52.2898" lon="1.4712">	<ele>40</ele>	<name>60 L</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="52.2888" lon="1.4924">	<ele>38</ele>	<name>61 bR</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="52.2882" lon="1.4939">	<ele>35</ele>	<name>62 bL</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="52.2799" lon="1.5320">	<ele>31</ele>	<name>63 R</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="52.2782" lon="1.5307">	<ele>32</ele>	<name>64 L</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="52.2737" lon="1.5470">	<ele>16</ele>	<name>65 L</name>	<desc>Darsham</desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="52.2666" lon="1.5752">	<ele>17</ele>	<name>66 L</name>	<desc>Westleton</desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="52.2673" lon="1.5794">	<ele>21</ele>	<name>67 SO</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<wpt lat="52.2773" lon="1.6323">	<ele>1</ele>	<name>68 End</name>	<desc>Dunwich beach. Phew!</desc>	<sym>Waypoint</sym><type>Waypoint</type> </wpt>
+<rte>				
+ <name>01STRT-68 END</name>					
+<number>1</number>	<rtept lat="51.542" lon="-0.0581">	<ele>15</ele>	<name>01Strt</name>	<desc>Pub on the Park, London Fields</desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>2</number>	<rtept lat="51.5526" lon="-0.0525">	<ele>20</ele>	<name>02 R</name>	<desc>Powerscroft Rd</desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>3</number>	<rtept lat="51.5608" lon="-0.0491">	<ele>8</ele>	<name>03 R</name>	<desc>Lea Bridge Rd</desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>4</number>	<rtept lat="51.5818" lon="0.0006">	<ele>30</ele>	<name>04 SO</name>	<desc>Cattlegrids in 1.5km!</desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>5</number>	<rtept lat="51.6556" lon="0.0389">	<ele>80</ele>	<name>05 SO</name>	<desc>High Beach roundabout</desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>6</number>	<rtept lat="51.7052" lon="0.119">	<ele>111</ele>	<name>06 bR</name>	<desc>Epping</desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>7</number>	<rtept lat="51.7168" lon="0.1676">	<ele>79</ele>	<name>07 SO</name>	<desc>North Weald Bassett</desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>8</number>	<rtept lat="51.7444" lon="0.1937">	<ele>76</ele>	<name>08 R</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>9</number>	<rtept lat="51.7409" lon="0.2193">	<ele>57</ele>	<name>09 fL</name>	<desc>Moreton</desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>10</number>	<rtept lat="51.7376" lon="0.2663">	<ele>62</ele>	<name>10 L</name>	<desc>Fyfield</desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>11</number>	<rtept lat="51.7919" lon="0.2931">	<ele>62</ele>	<name>11 R</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>12</number>	<rtept lat="51.7965" lon="0.3115">	<ele>72</ele>	<name>12 L</name>	<desc>Leaden Roding</desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>13</number>	<rtept lat="51.8655" lon="0.3704">	<ele>59</ele>	<name>13 L</name>	<desc>Entering Gt Dunmow</desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>14</number>	<rtept lat="51.8797" lon="0.3623">	<ele>60</ele>	<name>14 R</name>	<desc>Leaving Gt Dunmow</desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>15</number>	<rtept lat="51.9487" lon="0.4376">	<ele>68</ele>	<name>15 L</name>	<desc>Gt Bardfield</desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>16</number>	<rtept lat="51.9686" lon="0.4512">	<ele>63</ele>	<name>16 bR</name>	<desc>Finchingfield - short steep climb</desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>17</number>	<rtept lat="51.9536" lon="0.4885">	<ele>70</ele>	<name>17 SO</name>	<desc>Wethersfield</desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>18</number>	<rtept lat="51.9785" lon="0.5851">	<ele>55</ele>	<name>18 L</name>	<desc>Entering Sible Hedingham</desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>19</number>	<rtept lat="51.9805" lon="0.5901">	<ele>48</ele>	<name>19 L</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>20</number>	<rtept lat="51.9821" lon="0.589">	<ele>53</ele>	<name>20 R</name>	<desc>Leaving Sible Hedingham</desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>21</number>	<rtept lat="51.9895" lon="0.5988">	<ele>50</ele>	<name>21 fR</name>	<desc>Castle Hedingham</desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>22</number>	<rtept lat="51.9981" lon="0.6466">	<ele>70</ele>	<name>22 L</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>23</number>	<rtept lat="52.0157" lon="0.6901">	<ele>79</ele>	<name>23 L</name>	<desc>Bulmer Tye</desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>24</number>	<rtept lat="52.0382" lon="0.7262">	<ele>30</ele>	<name>24 L</name>	<desc>Entering Sudbury</desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>25</number>	<rtept lat="52.0422" lon="0.7285">	<ele>34</ele>	<name>25 R</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>26</number>	<rtept lat="52.0399" lon="0.7323">	<ele>37</ele>	<name>26 L</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>27</number>	<rtept lat="52.0471" lon="0.7446">	<ele>60</ele>	<name>27 E2</name>	<desc>Leaving Sudbury</desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>28</number>	<rtept lat="52.0605" lon="0.7778">	<ele>57</ele>	<name>28Food</name>	<desc>Great Waldingfield Food stop</desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>29</number>	<rtept lat="52.0682" lon="0.7893">	<ele>41</ele>	<name>29 R</name>	<desc></desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>30</number>	<rtept lat="52.0908" lon="0.8585">	<ele>40</ele>	<name>30 R</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>31</number>	<rtept lat="52.0927" lon="0.8763">	<ele>37</ele>	<name>31 bL</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>32</number>	<rtept lat="52.1026" lon="0.9092">	<ele>34</ele>	<name>32 L</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>33</number>	<rtept lat="52.1046" lon="0.9097">	<ele>37</ele>	<name>33 R</name>	<desc>Bildeston</desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>34</number>	<rtept lat="52.1075" lon="0.9773">	<ele>80</ele>	<name>34 bL</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>35</number>	<rtept lat="52.1276" lon="1.0158">	<ele>72</ele>	<name>35 L</name>	<desc>Barking Tye</desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>36</number>	<rtept lat="52.1507" lon="1.0539">	<ele>19</ele>	<name>36 L</name>	<desc>Needham Market</desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>37</number>	<rtept lat="52.1518" lon="1.0537">	<ele>21</ele>	<name>37 R</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>38</number>	<rtept lat="52.1502" lon="1.0628">	<ele>18</ele>	<name>38 fL</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>39</number>	<rtept lat="52.1463" lon="1.0785">	<ele>17</ele>	<name>39 E1</name>	<desc>Large Roundabout under A14</desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>40</number>	<rtept lat="52.1512" lon="1.0851">	<ele>24</ele>	<name>40 R</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>41</number>	<rtept lat="52.1447" lon="1.1144">	<ele>28</ele>	<name>41 fR</name>	<desc>Coddenham</desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>42</number>	<rtept lat="52.1442" lon="1.144">	<ele>38</ele>	<name>42 L</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>43</number>	<rtept lat="52.1485" lon="1.1475">	<ele>56</ele>	<name>43 R</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>44</number>	<rtept lat="52.1692" lon="1.1982">	<ele>55</ele>	<name>44 L</name>	<desc>Helmingham</desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>45</number>	<rtept lat="52.1901" lon="1.2077">	<ele>37</ele>	<name>45 R</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>46</number>	<rtept lat="52.1935" lon="1.2299">	<ele>51</ele>	<name>46 bL</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>47</number>	<rtept lat="52.1953" lon="1.2579">	<ele>36</ele>	<name>47 L R</name>	<desc>Cretingham</desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>48</number>	<rtept lat="52.1933" lon="1.311">	<ele>22</ele>	<name>48 L</name>	<desc>Kettleburgh</desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>49</number>	<rtept lat="52.1968" lon="1.317">	<ele>30</ele>	<name>49 R</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>50</number>	<rtept lat="52.2137" lon="1.3421">	<ele>27</ele>	<name>50 L</name>	<desc>Entering Framlingham</desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>51</number>	<rtept lat="52.2212" lon="1.3418">	<ele>28</ele>	<name>51 R</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>52</number>	<rtept lat="52.2224" lon="1.3485">	<ele>41</ele>	<name>52 bL</name>	<desc>Leaving Framlingham</desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>53</number>	<rtept lat="52.2357" lon="1.3675">	<ele>53</ele>	<name>53 R</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>54</number>	<rtept lat="52.2287" lon="1.4013">	<ele>43</ele>	<name>54 L</name>	<desc>Cransford</desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>55</number>	<rtept lat="52.2708" lon="1.4501">	<ele>23</ele>	<name>55 R</name>	<desc>Peasenhall</desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>56</number>	<rtept lat="52.2727" lon="1.4547">	<ele>20</ele>	<name>56 L</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>57</number>	<rtept lat="52.2749" lon="1.4571">	<ele>18</ele>	<name>57 bL</name>	<desc>Sibton</desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>58</number>	<rtept lat="52.2792" lon="1.4548">	<ele>18</ele>	<name>58 R</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>59</number>	<rtept lat="52.2916" lon="1.4631">	<ele>46</ele>	<name>59 R</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>60</number>	<rtept lat="52.2898" lon="1.4712">	<ele>40</ele>	<name>60 L</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>61</number>	<rtept lat="52.2888" lon="1.4924">	<ele>38</ele>	<name>61 bR</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>62</number>	<rtept lat="52.2882" lon="1.4939">	<ele>35</ele>	<name>62 bL</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>63</number>	<rtept lat="52.2799" lon="1.532">	<ele>31</ele>	<name>63 R</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>64</number>	<rtept lat="52.2782" lon="1.5307">	<ele>32</ele>	<name>64 L</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>65</number>	<rtept lat="52.2737" lon="1.547">	<ele>16</ele>	<name>65 L</name>	<desc>Darsham</desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>66</number>	<rtept lat="52.2666" lon="1.5752">	<ele>17</ele>	<name>66 L</name>	<desc>Westleton</desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>67</number>	<rtept lat="52.2673" lon="1.5794">	<ele>21</ele>	<name>67 SO</name>	<desc> </desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+<number>68</number>	<rtept lat="52.2773" lon="1.6323">	<ele>1</ele>	<name>68 End</name>	<desc>Dunwich beach. Phew!</desc>	<sym>Waypoint</sym><type>Waypoint</type> </rtept>
+</rte>					
+<extensions>					
+</extensions>					
+</gpx>					
