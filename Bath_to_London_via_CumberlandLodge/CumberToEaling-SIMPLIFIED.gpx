@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <time>2016-05-17T12:52:24.072Z</time>
+    <bounds minlat="51.425869000" minlon="-0.608000000" maxlat="51.508483000" maxlon="-0.313556000"/>
+  </metadata>
+  <trk>
+    <name>CumberToEaling</name>
+    <trkseg>
+      <trkpt lat="51.434170000" lon="-0.608000000">
+        <ele>76.990000</ele>
+        <time>2016-05-17T13:43:46Z</time>
+      </trkpt>
+      <trkpt lat="51.433930000" lon="-0.604770000">
+        <ele>76.510000</ele>
+        <time>2016-05-17T13:44:41Z</time>
+      </trkpt>
+      <trkpt lat="51.435060000" lon="-0.602250000">
+        <ele>76.330000</ele>
+        <time>2016-05-17T13:45:32Z</time>
+      </trkpt>
+      <trkpt lat="51.437120000" lon="-0.601810000">
+        <ele>77.800000</ele>
+        <time>2016-05-17T13:46:29Z</time>
+      </trkpt>
+      <trkpt lat="51.438930000" lon="-0.597990000">
+        <ele>78.720000</ele>
+        <time>2016-05-17T13:47:49Z</time>
+      </trkpt>
+      <trkpt lat="51.440420000" lon="-0.597260000">
+        <ele>78.930000</ele>
+        <time>2016-05-17T13:48:31Z</time>
+      </trkpt>
+      <trkpt lat="51.439610000" lon="-0.587710000">
+        <ele>87.130000</ele>
+        <time>2016-05-17T13:51:14Z</time>
+      </trkpt>
+      <trkpt lat="51.441480000" lon="-0.585610000">
+        <ele>86.920000</ele>
+        <time>2016-05-17T13:52:19Z</time>
+      </trkpt>
+      <trkpt lat="51.440070000" lon="-0.576060000">
+        <ele>88.850000</ele>
+        <time>2016-05-17T13:55:02Z</time>
+      </trkpt>
+      <trkpt lat="51.437780000" lon="-0.571700000">
+        <ele>85.750000</ele>
+        <time>2016-05-17T13:56:50Z</time>
+      </trkpt>
+      <trkpt lat="51.436491000" lon="-0.564903000">
+        <ele>83.690000</ele>
+        <time>2016-05-17T13:58:49Z</time>
+      </trkpt>
+      <trkpt lat="51.437695000" lon="-0.563143000">
+        <ele>80.750000</ele>
+        <time>2016-05-17T13:59:32Z</time>
+      </trkpt>
+      <trkpt lat="51.436277000" lon="-0.556320000">
+        <ele>33.820000</ele>
+        <time>2016-05-17T14:01:32Z</time>
+      </trkpt>
+      <trkpt lat="51.433250000" lon="-0.552880000">
+        <ele>19.000000</ele>
+        <time>2016-05-17T14:03:11Z</time>
+      </trkpt>
+      <trkpt lat="51.434540000" lon="-0.551500000">
+        <ele>17.660000</ele>
+        <time>2016-05-17T14:03:52Z</time>
+      </trkpt>
+      <trkpt lat="51.435450000" lon="-0.548360000">
+        <ele>15.000000</ele>
+        <time>2016-05-17T14:04:51Z</time>
+      </trkpt>
+      <trkpt lat="51.435742000" lon="-0.539454000">
+        <ele>16.180000</ele>
+        <time>2016-05-17T14:07:19Z</time>
+      </trkpt>
+      <trkpt lat="51.434672000" lon="-0.536021000">
+        <ele>19.330000</ele>
+        <time>2016-05-17T14:08:23Z</time>
+      </trkpt>
+      <trkpt lat="51.435100000" lon="-0.531000000">
+        <ele>17.000000</ele>
+        <time>2016-05-17T14:09:47Z</time>
+      </trkpt>
+      <trkpt lat="51.432879000" lon="-0.517868000">
+        <ele>18.090000</ele>
+        <time>2016-05-17T14:13:34Z</time>
+      </trkpt>
+      <trkpt lat="51.433655000" lon="-0.516494000">
+        <ele>16.510000</ele>
+        <time>2016-05-17T14:14:04Z</time>
+      </trkpt>
+      <trkpt lat="51.431702000" lon="-0.512203000">
+        <ele>16.080000</ele>
+        <time>2016-05-17T14:15:33Z</time>
+      </trkpt>
+      <trkpt lat="51.431943000" lon="-0.511344000">
+        <ele>17.050000</ele>
+        <time>2016-05-17T14:15:49Z</time>
+      </trkpt>
+      <trkpt lat="51.430338000" lon="-0.510057000">
+        <ele>16.740000</ele>
+        <time>2016-05-17T14:16:36Z</time>
+      </trkpt>
+      <trkpt lat="51.431167000" lon="-0.507568000">
+        <ele>16.600000</ele>
+        <time>2016-05-17T14:17:23Z</time>
+      </trkpt>
+      <trkpt lat="51.430552000" lon="-0.506752000">
+        <ele>15.760000</ele>
+        <time>2016-05-17T14:17:45Z</time>
+      </trkpt>
+      <trkpt lat="51.432291000" lon="-0.503577000">
+        <ele>17.930000</ele>
+        <time>2016-05-17T14:18:55Z</time>
+      </trkpt>
+      <trkpt lat="51.432023000" lon="-0.499457000">
+        <ele>16.430000</ele>
+        <time>2016-05-17T14:20:04Z</time>
+      </trkpt>
+      <trkpt lat="51.428679000" lon="-0.494650000">
+        <ele>16.000000</ele>
+        <time>2016-05-17T14:22:04Z</time>
+      </trkpt>
+      <trkpt lat="51.425869000" lon="-0.474480000">
+        <ele>15.040000</ele>
+        <time>2016-05-17T14:27:48Z</time>
+      </trkpt>
+      <trkpt lat="51.430043000" lon="-0.464867000">
+        <ele>15.950000</ele>
+        <time>2016-05-17T14:31:03Z</time>
+      </trkpt>
+      <trkpt lat="51.432853000" lon="-0.462163000">
+        <ele>16.170000</ele>
+        <time>2016-05-17T14:32:30Z</time>
+      </trkpt>
+      <trkpt lat="51.431706000" lon="-0.458009000">
+        <ele>16.950000</ele>
+        <time>2016-05-17T14:33:46Z</time>
+      </trkpt>
+      <trkpt lat="51.432723000" lon="-0.455949000">
+        <ele>14.370000</ele>
+        <time>2016-05-17T14:34:30Z</time>
+      </trkpt>
+      <trkpt lat="51.437913000" lon="-0.454661000">
+        <ele>15.500000</ele>
+        <time>2016-05-17T14:36:50Z</time>
+      </trkpt>
+      <trkpt lat="51.459149000" lon="-0.439555000">
+        <ele>24.590000</ele>
+        <time>2016-05-17T14:47:10Z</time>
+      </trkpt>
+      <trkpt lat="51.466475000" lon="-0.423076000">
+        <ele>24.230000</ele>
+        <time>2016-05-17T14:52:47Z</time>
+      </trkpt>
+      <trkpt lat="51.475564000" lon="-0.395781000">
+        <ele>26.350000</ele>
+        <time>2016-05-17T15:01:21Z</time>
+      </trkpt>
+      <trkpt lat="51.475350000" lon="-0.392691000">
+        <ele>26.580000</ele>
+        <time>2016-05-17T15:02:13Z</time>
+      </trkpt>
+      <trkpt lat="51.482299000" lon="-0.344798000">
+        <ele>29.760000</ele>
+        <time>2016-05-17T15:15:51Z</time>
+      </trkpt>
+      <trkpt lat="51.483849000" lon="-0.324971000">
+        <ele>27.860000</ele>
+        <time>2016-05-17T15:21:23Z</time>
+      </trkpt>
+      <trkpt lat="51.488178000" lon="-0.313556000">
+        <ele>16.680000</ele>
+        <time>2016-05-17T15:25:05Z</time>
+      </trkpt>
+      <trkpt lat="51.503995000" lon="-0.333125000">
+        <ele>22.250000</ele>
+        <time>2016-05-17T15:33:58Z</time>
+      </trkpt>
+      <trkpt lat="51.508483000" lon="-0.323684000">
+        <ele>28.920000</ele>
+        <time>2016-05-17T15:37:15Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
