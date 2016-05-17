@@ -1,5 +1,7 @@
 # 2016-05
 
+![Route map](GPSVisualizer_route.png)
+
 Cycling from Bath Uni to London, via Cumberland Lodge, Windsor great park for a weekend conference
 
 Bath -> Devizes via the canal tow path (avoids inevitable hills via road)
